@@ -1,0 +1,41 @@
+body {
+    
+    height: 100%;
+}
+
+.card-body {
+    background-image: url("../Images/pexels-photo-125457.jpeg");
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.forecast-credits {
+    margin-top: 40%;
+    color: white;
+}
+
+
+a:link {
+    color: Black;
+ 
+  }
+
+
+a:visited {
+    color: black;
+  }
+
+
+#select-forecast-type {
+    height: 50px;
+  }
+
+.location {
+    height: 50px;
+}
+
+#forecast-data {
+    color: white;
+}
